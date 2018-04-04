@@ -1,3 +1,0 @@
-WindowsStandalone
-PlayerPath?
-D:/GitWork/AssetBundleManager/AssetBundleManager/AssetBundles/Windows/tanks-scene-bundle
