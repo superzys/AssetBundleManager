@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
+# Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssetBundleManager", "AssetBundleManager.csproj", "{676F117A-FEA1-6A6A-A9D8-91EFC3F65A3F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssetBundleManager.Editor", "AssetBundleManager.Editor.csproj", "{A36ABC71-0F72-6DB5-F7F1-27E650AFD890}"

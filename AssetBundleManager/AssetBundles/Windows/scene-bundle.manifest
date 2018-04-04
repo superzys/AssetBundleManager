@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 1325285279
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c79c102f2709529413eba81ee13fe0e1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/AssetBundleSample/SampleAssets/TestScene.unity
+Dependencies:
+- D:/GitWork/AssetBundleManager/AssetBundleManager/AssetBundles/Windows/material-bundle

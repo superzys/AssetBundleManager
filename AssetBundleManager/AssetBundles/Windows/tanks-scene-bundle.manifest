@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 1346926598
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7813cbf6c366ecdf0ce5128763130fa0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/AssetBundleSample/SampleAssets/Tanks/Scenes/TanksExample.unity
+Dependencies:
+- D:/GitWork/AssetBundleManager/AssetBundleManager/AssetBundles/Windows/tanks-albedo.normal-hd
